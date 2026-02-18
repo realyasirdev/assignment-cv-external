@@ -1,0 +1,16 @@
+h1{
+    font: style 10px; ;
+    color: rgb(42, 165, 89);
+}
+p{
+    font: style 1px; ;
+    background-color: lightblue;
+}
+section{
+    font-size: large;
+    background-color:lightblue;
+}
+body{font-size: larger;
+    background-color: slategray;
+
+}
